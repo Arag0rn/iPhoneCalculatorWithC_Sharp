@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{06318EBC-66E7-462F-BA77-1EE0F66C5C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06318EBC-66E7-462F-BA77-1EE0F66C5C31}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{06318EBC-66E7-462F-BA77-1EE0F66C5C31}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{06318EBC-66E7-462F-BA77-1EE0F66C5C31}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{06318EBC-66E7-462F-BA77-1EE0F66C5C31}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{06318EBC-66E7-462F-BA77-1EE0F66C5C31}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{06318EBC-66E7-462F-BA77-1EE0F66C5C31}.Debug|iPhone.Build.0 = Debug|iPhone
+		{06318EBC-66E7-462F-BA77-1EE0F66C5C31}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{06318EBC-66E7-462F-BA77-1EE0F66C5C31}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{06318EBC-66E7-462F-BA77-1EE0F66C5C31}.Release|iPhone.ActiveCfg = Release|iPhone
+		{06318EBC-66E7-462F-BA77-1EE0F66C5C31}.Release|iPhone.Build.0 = Release|iPhone
+		{06318EBC-66E7-462F-BA77-1EE0F66C5C31}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{06318EBC-66E7-462F-BA77-1EE0F66C5C31}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Calculator\Calculator.csproj
+	EndGlobalSection
+EndGlobal

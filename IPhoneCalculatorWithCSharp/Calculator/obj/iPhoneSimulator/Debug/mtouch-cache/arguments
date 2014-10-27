@@ -1,0 +1,27 @@
+# Version: 7.0.6.168 (2ed9bc9)
+# [first argument, ignore] # /Volumes/home/OneDrive/Some projects/IPhoneCalculatorWithCSharp/Calculator/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	"/Volumes/home/OneDrive/Some projects/IPhoneCalculatorWithCSharp/Calculator/obj/iPhoneSimulator/Debug/mtouch-cache" \
+	--nomanifest \
+	--nosign \
+	-sim \
+	"/Volumes/home/OneDrive/Some projects/IPhoneCalculatorWithCSharp/Calculator/bin/iPhoneSimulator/Debug/Calculator.app" \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	7.0 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	"/Volumes/home/OneDrive/Some projects/IPhoneCalculatorWithCSharp/Calculator/bin/iPhoneSimulator/Debug/Calculator.exe" \
